@@ -8,9 +8,12 @@
 	box-shadow: 0px 0px 20px 0px #888888;
 }
 #buy{
-	margin:0px 0px 0px 60px;
-	padding:15px;
-	background-color:
-	text-color:
-	border-radious:
+	margin:0px 0px 0px 40px;
+	background-color:#ef574c;
+	border-radius: 15px;
+  border: 2px solid #ef574c;
+  padding: 20px; 
+  width: 120px; 
+}
+	
 }
